@@ -1,10 +1,23 @@
 # Olá! Eu sou o Eli Júnior! 👋🏽
 
+
+### Entre em contato!
+
+<br/>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realelijr/)
-[![Site](https://img.shields.io/website?label=programadorjunior.com&style=for-the-badge&url=https://programadorjunior.com)](https://programadorjunior.com)
-[![CV](https://img.shields.io/website?label=Curriculo&style=for-the-badge&url=https://eli-junior.github.io)](https://eli-junior.github.io)
+[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5561982110800)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RealEliJR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/eli-junior)
+[![EMail](https://img.shields.io/badge/EMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:elijuniorbr@proton.me)
+[![Site](https://img.shields.io/website?label=programadorjunior.com&style=for-the-badge&url=https://programadorjunior.com)](https://programadorjunior.com)
+[![CV](https://img.shields.io/website?label=Currículo&style=for-the-badge&url=https://eli-junior.github.io)](https://eli-junior.github.io)
+
+<br/><br/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eli-junior&show_icons=true&theme=dracula)
+
 
 ### Tecnologias que uso no dia a dia
 
